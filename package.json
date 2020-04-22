@@ -1,0 +1,9 @@
+{
+  "name"    : "notification-bottom-tray",
+  "version" : "1.0.0",
+  "main"    : "main.js",
+  "description": "Add the icon in bottom notification tray",
+  "scripts": {
+    "start": "electron ."
+  }
+}
